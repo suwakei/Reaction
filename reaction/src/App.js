@@ -1,7 +1,9 @@
+import {GoodButton} from "./components/index";
+
 function App() {
   return (
     <div>
-      aaaaaa
+      <GoodButton icon={"(・∀・)ｲｲﾈ!!"}/>
     </div>
   );
 }
